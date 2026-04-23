@@ -1,2 +1,2 @@
 # Rubycontent
-Planner for school content 
+planners 
